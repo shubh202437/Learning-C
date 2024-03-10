@@ -13,6 +13,5 @@ int main() {
   
   // Delete __ (underscore) and add 20 at it's place
   printf("%d", __);
-  
+ return 0; 
 }
-return 0;
