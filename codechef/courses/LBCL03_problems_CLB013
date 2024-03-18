@@ -1,0 +1,11 @@
+Inserting space between outputs
+You can also have multiple outputs together in a single "printf()" function.
+
+#include <stdio.h>
+
+int main() {
+
+    // Add two %d to print two numbers
+    printf(______, 7, 3);
+	
+}
