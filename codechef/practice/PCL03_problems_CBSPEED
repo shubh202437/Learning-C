@@ -1,0 +1,35 @@
+Multiple Choice Question
+Alice has scored 
+�
+X marks in her test and Bob has scored 
+�
+Y marks in the same test.
+Alice is happy if she scored at least twice the marks of Bob’s score.
+Print "Yes" is she is happy.
+Other wise print nothing.
+
+Option 1:
+
+if (X >= 2 * Y) {
+    printf("YES");
+}
+Option 2:
+
+if (X > 2*Y) {
+    printf("YES");
+}
+Option 3:
+
+if (2*Y <= X) {
+    printf("YES");
+}
+Option 4:
+
+if (2*Y >= X) {
+    printf("YES");
+}
+Select all the correct options.
+Option 1
+Option 2
+Option 3
+Option 4
